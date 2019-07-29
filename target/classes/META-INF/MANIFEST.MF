@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: akshitasingh
+Build-Jdk: 12.0.1
+Implementation-Title: Java Brains Course API
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.springbootquickstart
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/course
+Created-By: Maven Integration for Eclipse
+
